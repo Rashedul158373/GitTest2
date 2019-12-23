@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">calculator</string>
+
+    <string name="point">.</string>
+    <string name="multiplication">*</string>
+    <string name="divided">/</string>
+    <string name="delete"><![CDATA[<<]]></string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="equal">=</string>
+    <string name="pointString">.</string>
+    <string name="semicolon">;</string>
+    <string name="field_is_empty">Field is empty...!</string>
+    <string name="div">÷</string>
+
+</resources>
